@@ -1,0 +1,14 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = 'A simulation of the West Coastway route between Chichester and Cosham, as well as the Portsmouth Direct Line between Havant and Portsmouth Harbour'
+display_name = 'Portsmouth Area'
+doc_files = [ 'Portsmouth Area Documentation.md' ]
+factual = true
+img_files = [ 'Portsmouth_Area.bmp' ]
+name = 'Portsmouth Area'
+year = 2022
+signal_position = "left"
+release_date = '2022-03-30'
+rly_file = 'Portsmouth Area.rly'
+ttb_files = [ 'Portsmouth Area 03-04-22 Portsmouth Closure.ttb', 'Portsmouth Area 09-03-22.ttb' ]
+version = '1.1.0'
